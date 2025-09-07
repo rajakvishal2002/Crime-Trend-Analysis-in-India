@@ -1,13 +1,14 @@
 # Crime Trend Analysis in India
 
 ## 📌 Project Overview
-This project provides a comprehensive **analysis of crime trends in India** using **Power BI, Python (EDA), and Google Colab**.  
+This project provides a comprehensive **analysis of crime trends in India** using **Power BI, Python (EDA), and Microsoft Excel**.  
 The goal is to uncover crime patterns, hotspots, and law enforcement efficiency through **interactive dashboards and exploratory analysis**.
 
 ## 🛠️ Tools & Technologies
 - **Power BI** → Data visualization and interactive dashboarding
-- **Python (Pandas, Matplotlib, Seaborn)** → Exploratory Data Analysis (EDA)
-- **Google Colab** → Notebook execution and data cleaning
+- **Python (Pandas & Matplotlib)** → Exploratory Data Analysis (EDA)
+- **Visual Code** → Notebook execution and data cleaning
+- **Microsoft Excel** → Data Modeling and processing
 
 ## 📂 Repository Structure
 Crime-Trend-Analysis-India/
