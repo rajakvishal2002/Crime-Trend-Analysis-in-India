@@ -9,25 +9,53 @@ The goal is to uncover crime patterns, hotspots, and law enforcement efficiency 
 - **Python (Pandas, Matplotlib, Seaborn)** → Exploratory Data Analysis (EDA)
 - **Google Colab** → Notebook execution and data cleaning
 
-## 🚀 Project Workflow
-1. **Data Collection** → Crime dataset (`.csv`)
-2. **Exploratory Data Analysis (Python)** → Cleaning, EDA, trends
-3. **Visualization (Power BI)** → Dashboards for decision-making
-4. **Report Preparation (PDF)** → Documentation of insights
+## 📂 Repository Structure
+Crime-Trend-Analysis-India/
+│── data/
+│ └── crime_dataset_india.csv # Dataset
+│── reports/
+│ └── Crime Trend Analysis in India.pbix # Power BI file
+│ └── Crime Trend Analysis in India.pdf # Final Report
+│── diagrams/
+│ └── workflow.png
+│── README.md
+
+## 🔄 Workflow
+The project follows this workflow:
+
+![Workflow](./Workflow.png)
+
+**Steps:**
+1. 📥 **Data Collection** → Kaggle dataset (CSV)  
+2. 🐍 **Python (EDA)** → Data cleaning, trends, and analysis  
+3. 📊 **Excel** → Data modeling & preprocessing  
+4. 🗂️ **Cleaned Data** → Prepared for visualization  
+5. 📈 **Power BI (DAX Operations)** → Interactive dashboard creation  
+6. 📉 **Dashboard** → Visual insights  
+7. 📝 **Report** → Final insights & documentation  
+
+---
 
 ## 📊 Dashboard Features
-- **Year-over-Year Trends** of crime
-- **Geospatial Distribution** of incidents
-- **Crime Type Analysis** (property crimes, cybercrime, violent crimes)
-- **Victim Demographics** (age & gender)
-- **Weapon Usage Analysis**
-- **Law Enforcement Response** (deployment & case closure)
+- **Crime Trends over Time** (YOY & Monthly analysis)  
+- **Geospatial Distribution** of crimes across Indian cities  
+- **Victim Demographics** (age & gender distribution)  
+- **Crime Types & Weapon Usage**  
+- **Law Enforcement Response** (case closures & police deployment)  
+
+---
 
 ## 📑 Dataset Information
-- Source: `data/crime_dataset_india.csv`
-- Key fields: State/UT, Year, Type of Crime, Reported Cases, Victim Demographics, Weapon Used
+- **Source:** Kaggle crime dataset  
+- **Key Fields:**
+  - State/UT
+  - Year
+  - Type of Crime
+  - Victim demographics
+  - Weapon used
+  - Reported cases & Case closure status  
 
-## 📷 Workflow Diagrams
-### 🔹 Workflow
-![Workflow](./Workflow.png)
+---
+
+⭐ If you like this project, don’t forget to **star the repo** and connect with me!  
 
