@@ -29,5 +29,5 @@ The goal is to uncover crime patterns, hotspots, and law enforcement efficiency 
 
 ## 📷 Workflow Diagrams
 ### 🔹 Workflow
-![Workflow](./diagrams/workflow.png)
+![Workflow](./Workflow.png)
 
